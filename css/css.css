@@ -1,0 +1,36 @@
+
+*{
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+header{
+    width: 100%;
+}
+header >img{
+    width: 100px;
+}
+header >h1{ 
+    color: white;
+    background-color: red;
+    text-align: left;
+}
+header >a{
+    color:blue;
+}
+/*Mid*/
+div {
+    background-color: brown;
+}
+.mid-site, .roadmap{
+    color: white;
+}
+.mid-site i{
+    color: black;
+    font-weight: bolder;
+}
+.menu{
+    background: white;
+}
